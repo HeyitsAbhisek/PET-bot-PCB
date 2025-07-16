@@ -1,4 +1,4 @@
-# PET Bot Controller PCB - v1.0
+# PET Bot Controller PCB
 
 A compact **6x6 cm**, DIY-friendly, **single-layer PCB** for controlling up to **8 servo motors** with an **ESP32**.  
 This board is specifically designed for easy at-home manufacturing via the **chemical etching process**, using robust **40-mil traces** and common **through-hole components**.
