@@ -60,6 +60,3 @@ Program the **ESP32** using the **Arduino IDE** or **PlatformIO** with the [`ESP
 | SERVO_8 | GPIO_XX |
 
 ---
-
-## 📁 Project Files
-
